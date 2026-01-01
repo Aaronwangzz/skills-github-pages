@@ -1,6 +1,4 @@
 ---
-title: Welcome to my Website
+title: Welcome to my blog
 ---
 
-**Testing, testing**
---What is happening?--
